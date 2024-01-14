@@ -49,6 +49,7 @@ Follow these steps to set up the project:
     - `test`: Runs the project tests.
     - `test:watch`: Runs the project tests in watch mode.
     - `test:coverage`: Runs the project tests and generates a coverage report.
+    _ `test:ui`: Runs the project tests in UI mode.
 
     To start the server in development mode, run:
     ```bash 
