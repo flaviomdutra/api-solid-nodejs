@@ -48,6 +48,7 @@ Follow these steps to set up the project:
     - `build`: Compiles the TypeScript code to JavaScript.
     - `test`: Runs the project tests.
     - `test:watch`: Runs the project tests in watch mode.
+    - `test:coverage`: Runs the project tests and generates a coverage report.
 
     To start the server in development mode, run:
     ```bash 
