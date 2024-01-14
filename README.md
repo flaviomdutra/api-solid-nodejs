@@ -6,19 +6,19 @@ This project is developed with the purpose of exploring and applying SOLID princ
 
 ### SOLID Principles
 
-1. **S - Single Responsibility Principle (SRP):**
+**S - Single Responsibility Principle (SRP):**
    - A class should have only one reason to change, meaning it should have only one responsibility.
 
-2. **O - Open/Closed Principle (OCP):**
+**O - Open/Closed Principle (OCP):**
    - A class should be open for extension but closed for modification. New features should be added without altering existing code.
 
-3. **L - Liskov Substitution Principle (LSP):**
+**L - Liskov Substitution Principle (LSP):**
    - Subtypes must be substitutable for their base types without altering the correctness of the program. This means that objects of a base class should be able to be replaced by objects of its derived classes without affecting program integrity.
 
-4. **I - Interface Segregation Principle (ISP):**
+**I - Interface Segregation Principle (ISP):**
    - A class should not be forced to implement interfaces it does not use. Interfaces should be specific to the needs of the class.
 
-5. **D - Dependency Inversion Principle (DIP):**
+**D - Dependency Inversion Principle (DIP):**
    - High-level modules should not depend on low-level modules. Both should depend on abstractions. Additionally, abstractions should not depend on details; details should depend on abstractions.
 
 ## Setup
@@ -70,7 +70,7 @@ The SOLID principles are applicable in software projects to enhance flexibility,
 
 ## When Not to Use
 
-- **Small and Simple** Projects: In small projects, strictly applying SOLID principles may be excessive and unnecessary, increasing complexity without proportional benefits.
+- **Small and Simple Projects**: In small projects, strictly applying SOLID principles may be excessive and unnecessary, increasing complexity without proportional benefits.
 
 - **Tight Deadlines**: In situations where time is crucial and rapid delivery is a priority, strictly following all SOLID principles may consume more time than necessary.
 
