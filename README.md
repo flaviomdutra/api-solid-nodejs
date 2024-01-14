@@ -1,7 +1,5 @@
 # Application of SOLID Principles
 
-## Project Description
-
 This project is developed with the purpose of exploring and applying SOLID principles in software design. SOLID is an acronym that represents five principles of object-oriented design aimed at improving code modularity and maintainability.
 
 ### SOLID Principles
