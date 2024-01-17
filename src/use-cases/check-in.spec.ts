@@ -51,7 +51,7 @@ describe('CheckIn Use Case', () => {
       gymId: 'gym-01',
     })
 
-    vi.setSystemTime(new Date(2022, 0, 1, 21, 0, 0))
+    vi.setSystemTime(new Date(2022, 0, 2, 20, 0, 0))
 
     const { checkIn } = await sut.execute({
       userId: 'user-01',
