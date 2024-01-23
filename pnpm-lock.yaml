@@ -23,6 +23,9 @@ dependencies:
   fastify:
     specifier: 4.25.2
     version: 4.25.2
+  vitest-environment-prisma:
+    specifier: link:./prisma/vitest-environment-prisma
+    version: link:prisma/vitest-environment-prisma
   zod:
     specifier: 3.22.4
     version: 3.22.4
