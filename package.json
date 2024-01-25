@@ -1,7 +1,7 @@
 {
   "name": "api-solid-nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Node.js API built with TypeScript, following SOLID principles.",
   "main": "index.js",
   "scripts": {
     "start:dev": "tsx watch src/server.ts",
