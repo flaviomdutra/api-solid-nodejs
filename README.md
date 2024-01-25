@@ -27,9 +27,9 @@ Follow these steps to set up the project:
    ```bash
    git clone git@github.com:flaviomdutra/api-solid-nodejs.git
    ```
-2. **Install Dependencies:** We are using PNPM for package management. If you haven't installed it yet, you can do so with `npm install -g pnpm`. After that, you can install the dependencies with:
+2. **Install Dependencies:** We are using NPM for package management. 
    ```bash
-   pnpm install
+   npm install
    ```
 3. **Database Configuration:** We are using Docker to run the PostgreSQL database. Make sure you have Docker installed and running on your machine. To start the database, run the following command:
     ```bash
@@ -53,7 +53,7 @@ Follow these steps to set up the project:
 
     To start the server in development mode, run:
     ```bash 
-    pnpm run start:dev
+    npm run start:dev
     ```
 
 ## Applicability
